@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_0a9440e0",
+        "filename": "compiler/Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-07-08T07:02:54Z",
+      "side": 1,
+      "message": "Copyright should be attributed to The CyanogenMod Project, year 2014.",
+      "revId": "dabd228fdc42e1f288ef1ed9b638d72347b29546",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_ea90ecee",
+        "filename": "core/Android.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-07-08T07:02:54Z",
+      "side": 1,
+      "message": "Copyright should be attributed to The CyanogenMod Project, year 2014.",
+      "revId": "dabd228fdc42e1f288ef1ed9b638d72347b29546",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
